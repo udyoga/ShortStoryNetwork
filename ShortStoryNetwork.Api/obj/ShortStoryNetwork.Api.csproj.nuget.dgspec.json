@@ -1,0 +1,292 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Api\\ShortStoryNetwork.Api.csproj": {}
+  },
+  "projects": {
+    "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Api\\ShortStoryNetwork.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Api\\ShortStoryNetwork.Api.csproj",
+        "projectName": "ShortStoryNetwork.Api",
+        "projectPath": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Api\\ShortStoryNetwork.Api.csproj",
+        "packagesPath": "C:\\Users\\Udyoga\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Udyoga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.soundmouse.net/repository/neo-nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Application\\ShortStoryNetwork.Application.csproj": {
+                "projectPath": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Application\\ShortStoryNetwork.Application.csproj"
+              },
+              "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Core\\ShortStoryNetwork.Core.csproj": {
+                "projectPath": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Core\\ShortStoryNetwork.Core.csproj"
+              },
+              "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Infrastructure\\ShortStoryNetwork.Infrastructure.csproj": {
+                "projectPath": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Infrastructure\\ShortStoryNetwork.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Application\\ShortStoryNetwork.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Application\\ShortStoryNetwork.Application.csproj",
+        "projectName": "ShortStoryNetwork.Application",
+        "projectPath": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Application\\ShortStoryNetwork.Application.csproj",
+        "packagesPath": "C:\\Users\\Udyoga\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Udyoga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.soundmouse.net/repository/neo-nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Core\\ShortStoryNetwork.Core.csproj": {
+                "projectPath": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Core\\ShortStoryNetwork.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Core\\ShortStoryNetwork.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Core\\ShortStoryNetwork.Core.csproj",
+        "projectName": "ShortStoryNetwork.Core",
+        "projectPath": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Core\\ShortStoryNetwork.Core.csproj",
+        "packagesPath": "C:\\Users\\Udyoga\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Udyoga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.soundmouse.net/repository/neo-nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Infrastructure\\ShortStoryNetwork.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Infrastructure\\ShortStoryNetwork.Infrastructure.csproj",
+        "projectName": "ShortStoryNetwork.Infrastructure",
+        "projectPath": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Infrastructure\\ShortStoryNetwork.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Udyoga\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Udyoga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.soundmouse.net/repository/neo-nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Application\\ShortStoryNetwork.Application.csproj": {
+                "projectPath": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Application\\ShortStoryNetwork.Application.csproj"
+              },
+              "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Core\\ShortStoryNetwork.Core.csproj": {
+                "projectPath": "F:\\Projects\\Assignments\\ShortStoryNetwork\\ShortStoryNetwork.Core\\ShortStoryNetwork.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

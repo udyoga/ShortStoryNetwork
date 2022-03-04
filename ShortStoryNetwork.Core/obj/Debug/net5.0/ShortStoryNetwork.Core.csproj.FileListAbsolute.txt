@@ -1,0 +1,15 @@
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Core\bin\Debug\net5.0\ShortStoryNetwork.Core.deps.json
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Core\bin\Debug\net5.0\ShortStoryNetwork.Core.dll
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Core\bin\Debug\net5.0\ref\ShortStoryNetwork.Core.dll
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Core\bin\Debug\net5.0\ShortStoryNetwork.Core.pdb
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Core\obj\Debug\net5.0\ShortStoryNetwork.Core.csproj.AssemblyReference.cache
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Core\obj\Debug\net5.0\ShortStoryNetwork.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Core\obj\Debug\net5.0\ShortStoryNetwork.Core.AssemblyInfoInputs.cache
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Core\obj\Debug\net5.0\ShortStoryNetwork.Core.AssemblyInfo.cs
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Core\obj\Debug\net5.0\ShortStoryNetwork.Core.csproj.CoreCompileInputs.cache
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Core\obj\Debug\net5.0\ShortStoryNetwork.Core.dll
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Core\obj\Debug\net5.0\ref\ShortStoryNetwork.Core.dll
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Core\obj\Debug\net5.0\ShortStoryNetwork.Core.pdb
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Core\bin\Debug\net5.0\ShortStoryNetwork.Core.runtimeconfig.json
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Core\bin\Debug\net5.0\ShortStoryNetwork.Core.runtimeconfig.dev.json
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Core\obj\Debug\net5.0\ShortStoryNetwork.Core.genruntimeconfig.cache

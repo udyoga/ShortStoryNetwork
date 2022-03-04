@@ -1,0 +1,17 @@
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Infrastructure\bin\Debug\net5.0\ShortStoryNetwork.Infrastructure.deps.json
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Infrastructure\bin\Debug\net5.0\ShortStoryNetwork.Infrastructure.dll
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Infrastructure\bin\Debug\net5.0\ref\ShortStoryNetwork.Infrastructure.dll
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Infrastructure\bin\Debug\net5.0\ShortStoryNetwork.Infrastructure.pdb
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Infrastructure\bin\Debug\net5.0\ShortStoryNetwork.Application.dll
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Infrastructure\bin\Debug\net5.0\ShortStoryNetwork.Core.dll
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Infrastructure\bin\Debug\net5.0\ShortStoryNetwork.Application.pdb
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Infrastructure\bin\Debug\net5.0\ShortStoryNetwork.Core.pdb
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Infrastructure\obj\Debug\net5.0\ShortStoryNetwork.Infrastructure.csproj.AssemblyReference.cache
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Infrastructure\obj\Debug\net5.0\ShortStoryNetwork.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Infrastructure\obj\Debug\net5.0\ShortStoryNetwork.Infrastructure.AssemblyInfoInputs.cache
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Infrastructure\obj\Debug\net5.0\ShortStoryNetwork.Infrastructure.AssemblyInfo.cs
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Infrastructure\obj\Debug\net5.0\ShortStoryNetwork.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Infrastructure\obj\Debug\net5.0\ShortStoryNetwork.Infrastructure.csproj.CopyComplete
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Infrastructure\obj\Debug\net5.0\ShortStoryNetwork.Infrastructure.dll
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Infrastructure\obj\Debug\net5.0\ref\ShortStoryNetwork.Infrastructure.dll
+F:\Projects\Assignments\ShortStoryNetwork\ShortStoryNetwork.Infrastructure\obj\Debug\net5.0\ShortStoryNetwork.Infrastructure.pdb
